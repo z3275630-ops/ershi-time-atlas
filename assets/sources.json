@@ -1,0 +1,61 @@
+[
+  {
+    "file": "library-official-1.jpg",
+    "url": "https://univs-news-1256833609.file.myqcloud.com/resource_files/cont_pub/W/AHLEW/NPNMFAUOOJDFPOHRWV2TICDKGA.jpeg",
+    "source": "https://xyh.univs.cn/a/xyh_xyh_gddesfxy/230113/1826125.shtml",
+    "credit": "广东第二师范学院 / 陈钰贞，2023-01-13，公开图文引用，未标示开放许可"
+  },
+  {
+    "file": "library-official-2.jpg",
+    "url": "https://univs-news-1256833609.file.myqcloud.com/resource_files/cont_pub/W/AHLEW/EBKFXSULYJFWNEROYXQPSGDW44.jpeg",
+    "source": "https://xyh.univs.cn/a/xyh_xyh_gddesfxy/230113/1826125.shtml",
+    "credit": "广东第二师范学院 / 陈钰贞，2023-01-13，公开图文引用，未标示开放许可"
+  },
+  {
+    "file": "library-official-3.jpg",
+    "url": "https://univs-news-1256833609.file.myqcloud.com/resource_files/cont_pub/W/AHLEW/G5WE7P35N5ARBLORZ5FGQETKSQ.jpeg",
+    "source": "https://xyh.univs.cn/a/xyh_xyh_gddesfxy/230113/1826125.shtml",
+    "credit": "广东第二师范学院 / 陈钰贞，2023-01-13，公开图文引用，未标示开放许可"
+  },
+  {
+    "file": "library-official-4.jpg",
+    "url": "https://univs-news-1256833609.file.myqcloud.com/resource_files/cont_pub/W/AHLEW/RACZ5BQH4JFADAL767O7AH7VAY.jpeg",
+    "source": "https://xyh.univs.cn/a/xyh_xyh_gddesfxy/230113/1826125.shtml",
+    "credit": "广东第二师范学院 / 陈钰贞，2023-01-13，公开图文引用，未标示开放许可"
+  },
+  {
+    "file": "vr-viewpoint-surroundings.jpg",
+    "source": "用户提供1000055478.mp4",
+    "time_seconds": 65,
+    "credit": "用户提供的720云校园VR录屏静帧；非项目原创摄影",
+    "note": "图书馆拍摄点转向周边；标签不等同镜头正前建筑归属，不用作图书馆立面依据。"
+  },
+  {
+    "file": "library-vr-lobby.jpg",
+    "source": "用户提供1000055478.mp4",
+    "time_seconds": 80,
+    "credit": "用户提供的720云校园VR录屏静帧；非项目原创摄影"
+  },
+  {
+    "file": "library-vr-clip.mp4",
+    "source": "用户提供1000055478.mp4",
+    "range_seconds": [
+      62,
+      87
+    ],
+    "processing": "去除音轨，缩放至高960像素，H.264压缩；保留录屏界面",
+    "note": "场景转动含周边建筑，不将整段视作图书馆外立面"
+  },
+  {
+    "file": "campus-aerial.jpg",
+    "source": "https://www.gdei.edu.cn/hd_1410/list.htm",
+    "credit": "广东第二师范学院官网校园风光"
+  },
+  {
+    "file": "garden-reference.jpg",
+    "source": "https://static.nfnews.com/content/202512/03/c11964565.html",
+    "url": "https://media.nfnews.com/nfplus/ossfs/pic/xy/202512/03/8fe5a839ccc844bf86fcc110cbf2b45f_batchwm.jpg?x-oss-process=style/w640",
+    "credit": "南方+，受访者供图，2025-12-03；保留水印，用于师德园实景对照，未标示开放许可。",
+    "use": "校训石、白顶长廊、水岸与草坪外观参考；精确比例、整园布局及装饰细节未据此确认"
+  }
+]

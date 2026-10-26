@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "preview": "python -m http.server 8769 --bind 127.0.0.1"
+  }
+}
